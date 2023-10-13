@@ -16,13 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "/upload_cv.pdf", title: "CV"}
+  - {file: "/index.md"}
+  - {file: "/README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:purvaash.panduranghan-udhayashankar@weizmann.ac.il"}
   - {title: Github, icon: github, url: "https://github.com/purvaash"}
-  - {title: LinkedIn, icon: linkedin, url: "linkedin.com/in/purvaash-p-u-709244277"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/purvaash-p-u-709244277/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
