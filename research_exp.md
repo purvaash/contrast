@@ -11,7 +11,7 @@ At IITB, I studied near-field radiative heat transfer (NFRHT) under the supervis
 <img src="/assets/images/NFRHT.png" alt="NFHRT image" width="250" height="auto" class ="center" title="Comparing near-field and far-field heat transfer with black body limit">
 </a></p>
 
-.center {
+center {
   display: block;
   margin-left: auto;
   margin-right: auto;
