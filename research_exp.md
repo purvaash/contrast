@@ -13,6 +13,10 @@ During my stay at [IITB](https://www.iitb.ac.in/), I studied near-field radiativ
 
 I studied how the near-field behaviour depends on the optical properties of the material. Later, I studied and reproduced results of Prof. Karthik Sasihithlu's paper, Coupled harmonic oscillator model to describe surface-mode mediated heat transfer. In the final stages of the project, I tried simulating NFRHT using molecular dynamics under the supervision of Prof. Karthik Sasihithlu and [Prof. M. P. Gururajan](https://www.iitb.ac.in/mems/en/prof-m-p-gururajan).
 
+---
+_________________
+
+
 ## At Weizmann Instiute of Science (WIS)
 
 During my stay at [WIS](https://www.weizmann.ac.il/pages/), I am working on particle physics phenomenology under the supervision of [Prof. Yosef Nir's group](https://www.weizmann.ac.il/particle/nir/group-members). In my current project, I study Higgs boson decays in the context of BSM physics. Implications and constraints of a couple of BSM frameworks are obtained. For example, bounds on energy scales and consequences in baryogenesis are explored.
