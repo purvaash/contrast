@@ -18,8 +18,9 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "upload_cv.pdf", title: "CV"}
-  - {file: "README.md", title: "Readme"}
-  - {file: "blog.md", title: "Posts"}
+  - {file: "research_exp.md", title: "Research experience"}
+#  - {file: "README.md", title: "Readme"}
+#  - {file: "blog.md", title: "Posts"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:purvaash.panduranghan-udhayashankar@weizmann.ac.il"}
