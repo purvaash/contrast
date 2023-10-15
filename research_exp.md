@@ -5,6 +5,13 @@ At IITB, I studied near-field radiative heat transfer (NFRHT) under the supervis
 <img src="/assets/images/NFRHT.png" alt="NFHRT image" width="250" height="auto" class ="center" title="Comparing near-field and far-field heat transfer with black body limit">
 </a></p>
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 I studied how the near-field behaviour depends on the optical properties of the material. Later, I studied and reproduced results of Prof. Karthik Sasihithlu's paper, Coupled harmonic oscillator model to describe surface-mode mediated heat transfer. In the final stages of the project, I tried simulating NFRHT using molecular dynamics under the supervision of Prof. Karthik Sasihithlu and [Prof. M. P. Gururajan](https://www.iitb.ac.in/mems/en/prof-m-p-gururajan).
 
 wis
