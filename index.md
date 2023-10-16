@@ -8,6 +8,6 @@ I am a master's student at the [Department of Particle Physics and Astrophysics]
 
 In my future projects, I am interested in working on topics where deep learning and/or tensor networks overlap with areas of physics, particularly particle physics or condensed matter.
 
-My research experience has been in [near-field radiative heat transfer](https://en.wikipedia.org/wiki/Near-field_radiative_heat_transfer), [molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics) and [Higgs](https://en.wikipedia.org/wiki/Higgs_boson) boson phenomenology. 
+My research experience has been in [near-field radiative heat transfer](https://en.wikipedia.org/wiki/Near-field_radiative_heat_transfer), [molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics) and [Higgs boson](https://en.wikipedia.org/wiki/Higgs_boson) phenomenology. 
 
 I do yoga, read manga and watch anime in my free time.
