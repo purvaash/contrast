@@ -17,4 +17,4 @@ I studied how the near-field behaviour depends on the optical properties of the 
 
 ## At Weizmann Instiute of Science (WIS)
 
-During my stay at [WIS](https://www.weizmann.ac.il/pages/), I am working on particle physics phenomenology under the supervision of [Prof. Yosef Nir's group](https://www.weizmann.ac.il/particle/nir/group-members). In my current project, I study Higgs boson decays in the context of BSM physics. Implications and constraints of a couple of BSM frameworks are obtained. For example, bounds on energy scales and consequences in baryogenesis are explored.
+During my stay at [WIS](https://www.weizmann.ac.il/pages/), I am working on particle physics phenomenology under the supervision of [Prof. Yosef Nir](https://www.weizmann.ac.il/particle/nir/group-members). In my current project, I study Higgs boson decays in the context of BSM physics. Implications and constraints of a couple of BSM frameworks are obtained. For example, bounds on energy scales and consequences in baryogenesis are explored.
