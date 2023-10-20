@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
-  - {file: "assets/files/Purvaash_CV_02.pdf", title: "CV"}
+  - {file: "/assets/files/Purvaash_CV_02.pdf", title: "CV"}
   - {file: "research_exp.md", title: "Research experience"}
 #  - {file: "README.md", title: "Readme"}
 #  - {file: "blog.md", title: "Posts"}
