@@ -6,7 +6,7 @@ mathjax: true
 
 ## At IIT Bombay (IITB)
 
-During my stay at [IITB](https://www.iitb.ac.in/), I studied near-field radiative heat transfer (NFRHT) under the supervision of [Prof. Karthik Sasihithlu](https://www.ese.iitb.ac.in/faculty/karthik-sasihithlu). I explored how, in NFRHT, evanescent waves contribute to radiative heat transfer, resulting in super-Planckian behaviour. It is called super-Planckian as the heat transferred between the two objects exceeds the black body limit. As the distance between the objects decreases, the amount of heat transferred can be $10^5$ times the black body limit. 
+During my stay at [IITB](https://www.iitb.ac.in/), I studied near-field radiative heat transfer (NFRHT) under the supervision of [Prof. Karthik Sasihithlu](https://www.ese.iitb.ac.in/faculty/karthik-sasihithlu). I explored how, in NFRHT, evanescent waves contribute to radiative heat transfer, resulting in super-Planckian behaviour. It is called super-Planckian as the heat transferred between the two objects exceeds the black body limit. As the distance between the objects decreases, the amount of heat transferred can be $$10^5$$ times the black body limit. 
 
 <div style="text-align:center"><img src="/assets/images/NFRHT.png" /></div>
 
