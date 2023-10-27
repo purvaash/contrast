@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Research experience"
+mathjax: true
 ---
 
 ## At IIT Bombay (IITB)
