@@ -18,4 +18,4 @@ I also studied how the near-field behaviour depends on the optical properties of
 
 ## At Weizmann Instiute of Science (WIS)
 
-I am working on particle physics phenomenology under the supervision of [Prof. Yosef Nir](https://www.weizmann.ac.il/particle/nir/group-members). In my current project, I study Higgs boson decays in the context of BSM physics. I use data from LHC to constrain BSM model parameters.
+I worked on particle physics phenomenology under the supervision of [Prof. Yosef Nir](https://www.weizmann.ac.il/particle/nir/group-members). In this project, I studied Higgs boson decays in the context of BSM physics. I used data from LHC to constrain BSM model parameters. More about this project can be found in this article, which is [my first publication](https://link.springer.com/article/10.1007/JHEP06(2024)049).
